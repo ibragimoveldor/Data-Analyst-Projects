@@ -1,0 +1,11 @@
+﻿Resource that I used:
+
+Kaggle movie data link:
+https://www.kaggle.com/tmdb/tmdb-movie-metadata/kernels
+
+Pandas plot function:
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.plot.html
+
+Multiple stackoverflow sources:
+
+https://stackoverflow.com/
